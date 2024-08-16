@@ -1,8 +1,8 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![AI Image](https://media.giphy.com/media/3o7btPfhje3l8iN5HG/giphy.gif)
+![AI Image]([https://media.giphy.com/media/3o7btPfhje3l8iN5HG/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p3ZDNrZGo4czB4M2V4ZnI3eGdkMnhndXNyNHpmZTl6Y245b2M5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/M16EnP70Vd6abjtsJT/giphy.gif))
 
-## 👋 Hi there! I'm Your Name
+## 👋 Hi there! I'm Muhammad Talha
 
 I'm a passionate AI Developer with a strong focus on **Machine Learning (ML)**, **Deep Learning (DL)**, and **Natural Language Processing (NLP)**. I thrive on building intelligent systems that can make a difference! 🚀
 
