@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![AI Image]([https://media.giphy.com/media/3o7btPfhje3l8iN5HG/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p3ZDNrZGo4czB4M2V4ZnI3eGdkMnhndXNyNHpmZTl6Y245b2M5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/M16EnP70Vd6abjtsJT/giphy.gif))
+![AI Image](https://t3.ftcdn.net/jpg/05/31/75/72/360_F_531757223_79t3leCQDjeaqar30DMc9YLINrnlsLWC.jpg))
 
 ## 👋 Hi there! I'm Muhammad Talha
 
