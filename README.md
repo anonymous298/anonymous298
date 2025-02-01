@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">A passionate AI Engineer</h3>
 
 <img align="center" width=400 alt="coding" src="https://imgs.search.brave.com/8Y0_QvEpMgPiEi55fDlnTFdjbD-59EGwBGq88GMBciE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
 
