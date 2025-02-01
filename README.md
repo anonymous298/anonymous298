@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous298" alt="anonymous298" /></a> </p>
 
-- 🔭 I’m currently working on [End-To-End-Sentiment-Analysis](https://github.com/anonymous298/End-To-End-Sentiment-Analysis)
+- 🔭 I’m currently working on **GenAI** learning.
 
 - 🌱 I’m currently learning **AI, Gen AI, Web Dev**
 
