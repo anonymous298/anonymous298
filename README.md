@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A passionate AI Engineer</h3>
+<h3 align="center">A passionate Full Stack AI Engineer</h3>
 
 <img align="center" width=400 alt="coding" src="https://imgs.search.brave.com/8Y0_QvEpMgPiEi55fDlnTFdjbD-59EGwBGq88GMBciE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anonymous298&theme=onedark)](https://github.com/anonymous298/github-profile-trophy)
 
-- 🔭 I’m currently working on **GenAI** learning.
+- 🔭 I’m currently working on **Full Stack AI** learning.
 
 - 🌱 I’m currently learning **AI, Gen AI, Web Dev**
 
-- 💬 Ask me about **AI, ML, DL, NLP**
+- 💬 Ask me about **AI, ML, DL, NLP, Full Stack**
 
 - 📫 How to reach me **tackletalha@gmail.com**
 
-- ⚡ Fun fact **I think I am very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
