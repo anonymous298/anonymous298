@@ -12,7 +12,7 @@
 - 💬 Ask me about **AI, ML, DL, NLP, Full Stack**
 
 - 📫 How to reach me **tackletalha@gmail.com**
-
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
