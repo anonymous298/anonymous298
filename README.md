@@ -131,7 +131,7 @@
 </a>
 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg)" width="40" height="40"/>
 </a>
 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
